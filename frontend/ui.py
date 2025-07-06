@@ -6,7 +6,7 @@ API_BASE = "http://localhost:8000"
 
 user_id = "user1"
 
-st.title("🤖 Live Chat with Gemini Agent")
+st.title("🤖 Brightspeed Chatbot")
 
 # --- Session ID Management ---
 if "session_id" not in st.session_state:
