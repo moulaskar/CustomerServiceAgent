@@ -1,0 +1,16 @@
+2025-07-05 17:38:36 - adk_app - INFO     - Session created for user: user1
+2025-07-05 17:38:42 - adk_app - INFO     - User (user1): hi
+2025-07-05 17:38:44 - adk_app - INFO     - Session State: {'last_greeting': 'Hi there! How can I help you today?\n'}
+2025-07-05 17:38:44 - adk_app - INFO     - Agent: Hi there! How can I help you today?
+
+2025-07-05 17:38:59 - adk_app - INFO     - User (user1): tell me about weather in gilbert arizona
+2025-07-05 17:39:03 - adk_app - INFO     - Session State: {'last_greeting': 'Okay! Here\'s the weather outlook for Gilbert, Arizona:\n\n*   **Overall:** Gilbert typically has a hot desert climate with plenty of sunshine year-round.\n*   **Temperature:** Expect high temperatures, especially during the summer months (June-August) when it can easily exceed 100°F (38°C). Winters are mild, with daytime temperatures usually in the 60s and 70s Fahrenheit (15-26°C).\n*   **Sunshine:** Gilbert gets a lot of sunshine, averaging over 300 sunny days per year.\n*   **Rainfall:** Rainfall is generally low, with most of the precipitation occurring during the winter months.\n*   **Best Time to Visit:** Many people find the spring (March-May) and fall (September-November) to be the most pleasant times to visit Gilbert, as the temperatures are more moderate.\n\nIf you want a very specific forecast for the next few days, I recommend checking a reliable weather website or app like the National Weather Service, AccuWeather, or The Weather Channel. Just search for "Gilbert, Arizona weather forecast."'}
+2025-07-05 17:39:03 - adk_app - INFO     - Agent: Okay! Here's the weather outlook for Gilbert, Arizona:
+
+*   **Overall:** Gilbert typically has a hot desert climate with plenty of sunshine year-round.
+*   **Temperature:** Expect high temperatures, especially during the summer months (June-August) when it can easily exceed 100°F (38°C). Winters are mild, with daytime temperatures usually in the 60s and 70s Fahrenheit (15-26°C).
+*   **Sunshine:** Gilbert gets a lot of sunshine, averaging over 300 sunny days per year.
+*   **Rainfall:** Rainfall is generally low, with most of the precipitation occurring during the winter months.
+*   **Best Time to Visit:** Many people find the spring (March-May) and fall (September-November) to be the most pleasant times to visit Gilbert, as the temperatures are more moderate.
+
+If you want a very specific forecast for the next few days, I recommend checking a reliable weather website or app like the National Weather Service, AccuWeather, or The Weather Channel. Just search for "Gilbert, Arizona weather forecast."

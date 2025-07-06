@@ -1,0 +1,11 @@
+2025-07-05 17:34:37 - adk_app - INFO     - Session created for user: user1
+2025-07-05 17:34:42 - adk_app - INFO     - User (user1): hi
+2025-07-05 17:34:47 - adk_app - INFO     - Session State: {'last_greeting': 'Hello! How can I help you today?\n'}
+2025-07-05 17:34:47 - adk_app - INFO     - Agent: Hello! How can I help you today?
+
+2025-07-05 17:35:05 - adk_app - INFO     - User (user1): tell me about gilbert arizona weather
+2025-07-05 17:35:08 - adk_app - INFO     - Session State: {'last_greeting': "Okay! Let me gather some information about the weather in Gilbert, Arizona for you. I'll check the current conditions and provide a brief forecast.\n\nI will store my answer in 'last_greeting'.\n"}
+2025-07-05 17:35:08 - adk_app - INFO     - Agent: Okay! Let me gather some information about the weather in Gilbert, Arizona for you. I'll check the current conditions and provide a brief forecast.
+
+I will store my answer in 'last_greeting'.
+
